@@ -42,22 +42,22 @@
 ### 🔥 Contribution Streak  
 
 <p align="center">
-  <img src="https://streak-stats.vercel.app?user=fenet-s&theme=radical&border_radius=10&date_format=M%20j%5B,%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.vercel.app?user=hanannur&theme=radical&border_radius=10&date_format=M%20j%5B,%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ### 🏆 Top Languages  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenet-s&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanannur&layout=compact&theme=radical" alt="Top Languages" />
 </p>  
 
 ### 📬 Connect With Me  
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/fenet-seifudin-b83844356/" target="_blank">
+  <a href="https://www.linkedin.com/in/hanan-nuru-114545310/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://t.me/app_duulaa" target="_blank">
+  <a href="https://t.me/https://t.me/pn1hs6" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" width="40" height="40" style="color:green;"/>
   </a>
 </p>
