@@ -45,11 +45,11 @@
   <img src="https://streak-stats.vercel.app?user=hanannur&theme=radical&border_radius=10&date_format=M%20j%5B,%20Y%5D" alt="GitHub Streak" />
 </p>
 
-<!--### 🏆 Top Languages -->
+--### 🏆 Top Languages 
 
-<!-- <p align="center">
+ <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanannur&layout=compact&theme=radical" alt="Top Languages" />
-</p>   -->
+</p>   
 
 ### 📬 Connect With Me  
 <p align="left">
