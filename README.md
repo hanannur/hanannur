@@ -39,11 +39,11 @@
  </p> 
 
 ### 🔥 Contribution Streak  
-<!--
+
 <p align="center">
   <img src="https://streak-stats.vercel.app?user=hanannur&theme=radical&border_radius=10&date_format=M%20j%5B,%20Y%5D" alt="GitHub Streak" />
 </p>
-  -->
+  
 ### 🏆 Top Languages 
 
  <p align="center">
